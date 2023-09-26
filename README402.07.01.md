@@ -1,15 +1,14 @@
 #  royas daily report
-Date:402/07/01
+Date:402/07/03
 
 # Overview
-Instagram 
+learning course 
 
 # Task details
-1.instagram 
-.45 story
-
+جلسه هشت و نه فصل ریسپانسیو 
+ducument responsive grid system 
 # Challenges
-story design 
+×
 # next steps
 learning course
 
