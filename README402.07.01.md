@@ -1,11 +1,12 @@
 #  royas daily report
-Date:402/07/03
+Date:402/07/04
 
 # Overview
 learning course 
 
 # Task details
-جلسه هشت و نه فصل ریسپانسیو 
+جلسه ده و یازده 
+و مرور جلسه ششم 
 ducument responsive grid system 
 # Challenges
 ×
