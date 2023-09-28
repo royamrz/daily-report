@@ -1,13 +1,13 @@
 #  royas daily report
-Date:402/07/04
+Date:402/07/05
 
 # Overview
 learning course 
 
 # Task details
-جلسه ده و یازده 
-و مرور جلسه ششم 
-ducument responsive grid system 
+جلسه دوازدهم و سیزدهم 
+و پروژه تمرینی بخش هدر 
+ducument w3school
 # Challenges
 ×
 # next steps
