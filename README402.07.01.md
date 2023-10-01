@@ -1,17 +1,17 @@
 #  royas daily report
-Date:402/07/05
+Date:402/07/08
 
 # Overview
-learning course 
+Instagram 
 
 # Task details
-جلسه دوازدهم و سیزدهم 
-و پروژه تمرینی بخش هدر 
-ducument w3school
+درست کردن استوری های شنبه تا جمعه 
+روزی هفت تا هشتا 
+ویدیو جلسه اول تولید محتوا 
 # Challenges
 ×
 # next steps
-learning course
+learning course and project 
 
 # conclusion
 ×
